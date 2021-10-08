@@ -1,3 +1,5 @@
+aws_shared_credentials
+
 .terraform
 
 terraform.tfstate
